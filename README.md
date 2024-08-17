@@ -21,7 +21,7 @@ To run this project, you need to have Python and Tkinter installed on your syste
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/3d-tic-tac-toe.git
+    git clone https://github.com/blackdragon101/3d-tic-tac-toe.git
     ```
 
 2. **Navigate to the project directory:**

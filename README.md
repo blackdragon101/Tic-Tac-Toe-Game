@@ -21,19 +21,19 @@ To run this project, you need to have Python and Tkinter installed on your syste
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/blackdragon101/3d-tic-tac-toe.git
+    git clone https://github.com/blackdragon101/Tic-Tac-Toe-Game.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd 3d-tic-tac-toe
+    cd tic tac with new version 3d.py
     ```
 
 3. **Run the game:**
 
     ```bash
-    python tic_tac_toe.py
+    python tic tac with new version 3d.py
     ```
 ## Screenshots:
 
